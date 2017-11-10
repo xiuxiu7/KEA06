@@ -1,0 +1,10 @@
+eoe 1
+device MKE06Z128xxx4
+speed 8000
+si swd
+connect
+RSetType 0
+r
+erase
+r
+exit
